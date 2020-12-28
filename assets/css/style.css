@@ -52,6 +52,11 @@ a:hover {
   text-decoration: none;
 }
 
+.disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
 i,
 span,
 a {
