@@ -3071,22 +3071,22 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 .navbar-area .navbar .navbar-btn li a.light {
-  border-color: #fff;
+  border-color: #d3d3d3;
 }
 .navbar-area .navbar .navbar-btn li a.light:hover {
   background-color: rgba(255, 255, 255, 0.4);
 }
 .navbar-area .navbar .navbar-btn li a.solid {
-  background-color: #fff;
-  border-color: #fff;
+  background-color: #d3d3d3;
+  border-color: #d3d3d3;
   color: #0067f4;
 }
 .navbar-area .navbar .navbar-btn li a.solid:hover {
   background-color: transparent;
-  color: #fff;
+  color: rgb(194, 191, 191);
 }
 .navbar-area.sticky {
-  background-color: #fff;
+  background-color: #d3d3d3;
   z-index: 999;
   position: fixed;
   -webkit-box-shadow: 0px 10px 25px 0px rgba(18, 18, 18, 0.05);
@@ -3121,7 +3121,7 @@ p {
 .navbar-area.sticky .navbar .navbar-btn li a.solid {
   border-color: #0067f4;
   background-color: #0067f4;
-  color: #fff;
+  color: #d3d3d3;
 }
 
 /*===========================
@@ -3205,7 +3205,7 @@ p {
 .slider-content .title {
   font-size: 68px;
   line-height: 96px;
-  color: #fff;
+  color: #d3d3d3;
   font-weight: 700;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
