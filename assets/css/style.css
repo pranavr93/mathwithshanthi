@@ -2883,7 +2883,7 @@ p {
 .navbar-area .navbar .navbar-toggler .toggler-icon {
   width: 30px;
   height: 2px;
-  background-color: rgb(0, 0, 0);
+  background-color: #fff;
   margin: 5px 0;
   display: block;
   position: relative;
@@ -2949,7 +2949,7 @@ p {
   line-height: 24px;
   font-weight: 700;
   padding: 26px 0;
-  color: #fff;
+  color: rgb(0, 0, 0);
   text-transform: uppercase;
   position: relative;
   opacity: 0.8;
